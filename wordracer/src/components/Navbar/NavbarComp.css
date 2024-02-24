@@ -1,0 +1,12 @@
+.nav {
+  box-shadow: 0px 5px 20px 5px #495057;
+}
+.nav .nav__link {
+  color: white;
+}
+.nav .nav__link:hover {
+  color: rgb(136, 136, 136);
+}
+.nav .navbar-nav .nav-link.active {
+  color: rgb(140, 140, 140);
+}/*# sourceMappingURL=NavbarComp.css.map */
